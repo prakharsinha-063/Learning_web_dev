@@ -1,0 +1,107 @@
+.uber{
+  background-color: black;
+  color: white;
+  height: 33px;
+  width: 100px;
+  border: none;
+  font-size: 12px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  cursor: pointer;
+}
+.uber:hover{
+  opacity: 0.6;
+}
+.amazon{
+  color: black;
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 32px;
+  font-size: 12px;
+  width: 150px;
+  border-radius: 16px;
+  font-weight: lighter;
+  cursor: pointer;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.amazon:hover{
+  background-color: yellow;
+}
+.github{
+  background-color: rgb(46,164,79);
+  color: white;
+  border:none;
+  height: 32px;
+  width: 80px;
+  font-size: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.github:hover{
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8);
+}
+.bootstrap{
+  margin-right: 7px;
+  height: 33px;
+  width: 100px;
+  font-size: 12px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+#getstarted{
+  color: white;
+  background-color: rgb(121,82,179);
+  border: none;
+  transition: background-color 0.15s;
+}
+#getstarted:hover{
+  background-color: rgb(83, 54, 128);
+}
+#download{
+  background-color: white;
+  border-color: black;
+  color: rgb(108,117,125);
+  border-width: 0.8px;
+  transition: background-color 0.15s,color 0.15s;
+}
+#download:hover{
+  color:white;
+  background-color: grey;
+}
+.linkedln{
+  height: 34px;
+  border-radius: 16px;
+  cursor: pointer;
+
+}
+
+#company-website{
+  background-color: rgb(10, 102, 194);
+  width: 205px;
+  color: white;
+  font-size: 13px;
+  font-weight: 100px;
+  margin-right: 9px;
+  border-width: 0px;
+  transition: background-color 0.15ms;
+}
+
+#company-website:hover{
+  background-color: rgb(5, 81, 156);
+}
+#save{
+ color: rgb(10, 102, 194);
+ background-color: white;
+ border-color: rgb(10, 102, 194);
+ border-width: 1px;
+ width: 70px;
+ border-style: solid;
+ font-weight: bolder;
+}
+#save:hover{
+  border-width: 1.5px;
+  background-color:rgb(203, 222, 241);
+}

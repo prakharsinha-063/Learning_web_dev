@@ -1,0 +1,19 @@
+.controls{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.pno{
+  margin-left: 4px;
+  margin-right: 4px;
+}
+.stretch{
+  color: white;
+  background-color: green;
+  border-width: 1px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 8px;
+  padding-right: 8px;
+}

@@ -1,0 +1,30 @@
+.video-title{
+  margin-top: 0px;
+}
+.pfp{
+  width: 100%;
+}
+.thumbnail{
+  width: 300px;
+  display: block;
+}
+.search-bar{
+  display: block;
+}
+.video-preview{
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+.channelpicture{
+  display: inline-block;
+  vertical-align: top;
+  width: 50px;
+  border-radius: 50px;
+}
+.video-info{
+  
+  display: inline-block;
+  width: 200px;
+}

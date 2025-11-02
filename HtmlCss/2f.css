@@ -1,0 +1,57 @@
+.link{
+  color: rgb(0,113,133);
+  font-size: 15px;
+  display: block;
+  margin-bottom: 20px;
+  transition: color 0.15s;
+}
+.link:hover{
+  color: brown;
+}
+.prod-name{
+  color: black;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.price{
+  color: rgb(0,118,0);
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.delivery{
+  color: black;
+  font-size: 17px;
+}
+.amazon{
+  height: 26px;
+  width: 100px;
+  border-radius: 13px;
+  border-width: 0px;
+  color: black;
+  font-size: 12px;
+  margin-right: 11px;
+  font-weight: 300;
+  cursor: pointer;
+  transition: background-color 0.15s,opacity 0.15s;
+}
+#atc{
+  background-color: rgb(255,216,20);
+}
+#atc:hover{
+  background-color: rgb(224, 192, 33);
+}
+#atc:active{
+  opacity: 0.4;
+}
+
+#bn{
+  background-color: rgb(255, 164, 28);
+}
+#bn:active{
+  opacity: 0.4;
+}
+#bn:hover{
+  background-color: rgb(235, 147, 16);
+}
